@@ -1,0 +1,24 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congcong09/ci-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/congcong09/ci-demo/issues"
+  },
+  "homepage": "https://github.com/congcong09/ci-demo#readme",
+  "dependencies": {
+    "jest": "^28.0.3",
+    "lodash": "^4.17.21"
+  }
+}
