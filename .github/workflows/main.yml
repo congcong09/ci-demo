@@ -30,6 +30,8 @@ jobs:
       
       - name: jest test
         run: npm install
+        
+      - name: run test
         run: npm run test
 
       # Runs a single command using the runners shell
